@@ -1,1 +1,1 @@
-low level programmings
+ C troubles
